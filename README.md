@@ -1,2 +1,18 @@
 # vesicamo
-very simple climate models
+
+VEry SImple ClimAte MOdels
+
+This small collection of Jupyter notebooks is meant to clarify some of the physics that is relevant for climate science.
+
+1. **green_house_effect.ipynb**
+
+This is a very simple model of the green houese effect. It shows the influence of an absorbing layer in the ahomspeher on earth surface temperature.
+
+2. **mean_earth_surface_temp.ipynb**
+
+In simplified climate models often raiation from the earth surface is appriximated by assuming a mean surface temperature and applying the Stefan-Boltzmann law. The radiation density is proportional to $T^4$. What is the value of the mean surface temperature if the surface is split into to parts wih two different temperatures but with the same overall heat raiation power.   
+
+## A Remark 
+
+I'm physicist but also a human. Humans tend to make errors. If anybody finds na error I would be very appreciative for this inforation. But please keep in mind that the models are not only simple, they are meant to be simple to catch the underlying physics not to explain in detail the earth's climate. 
+
