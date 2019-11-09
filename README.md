@@ -1,6 +1,6 @@
 # vesicamo
 
-VEry SImple ClimAte MOdels
+**VEry SImple ClimAte MOdels**
 
 This small collection of Jupyter notebooks is meant to clarify some of the physics that is relevant for climate science.
 
