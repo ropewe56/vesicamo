@@ -14,5 +14,5 @@ In simplified climate models often raiation from the earth surface is appriximat
 
 ## A Remark 
 
-I'm physicist but also a human. Humans tend to make errors. If anybody finds na error I would be very appreciative for this inforation. But please keep in mind that the models are not only simple, they are meant to be simple to catch the underlying physics not to explain in detail the earth's climate. 
+I'm physicist but also a human. Humans tend to make errors. If anybody finds an error I would be very appreciative for this information. But please keep in mind that the models are intentionally simple to catch the underlying physics not to explain in detail the earth's climate. 
 
