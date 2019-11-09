@@ -16,3 +16,4 @@ In simplified climate models often raiation from the earth surface is appriximat
 
 I'm physicist but also a human. Humans tend to make errors. If anybody finds an error I would be very appreciative for this information. But please keep in mind that the models are intentionally simple to catch the underlying physics not to explain in detail the earth's climate. 
 
+There is another Gilab repository ropewe56/simpleco2. This is a simple model of the radiation transfer in the atmosphere where radition is only absorbed and emitted by $CO_2$. The model itself is complete bty the documentaion is stil work in progress. 
